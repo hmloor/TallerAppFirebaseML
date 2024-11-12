@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243615071915",
+    "project_id": "tallerappfirebase",
+    "storage_bucket": "tallerappfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243615071915:android:a54e12019ee1f614a5c1ee",
+        "android_client_info": {
+          "package_name": "com.itsqmet.myAppConFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYqDzMd_aC-Ihg8_AuBPLX6a_jpnYPnCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
